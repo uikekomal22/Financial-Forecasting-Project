@@ -1,4 +1,5 @@
 Financial Forecasting- Project
+
 *Objective:* Analyze historical financial statements to project future corporate revenue velocities and operational expense growth thresholds.
 *Tools Used:* Python (Time Series Analysis / ARIMA model), Microsoft Excel, Power BI.
 *Methodology:* Executed data cleaning, trend identification, and seasonality analysis on past transactional data.
