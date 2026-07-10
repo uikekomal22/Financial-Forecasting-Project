@@ -1,4 +1,3 @@
-Financial Forecasting- Project
 
 *Objective:* Analyze historical financial statements to project future corporate revenue velocities and operational expense growth thresholds.
 
