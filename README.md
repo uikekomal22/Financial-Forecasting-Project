@@ -25,11 +25,11 @@
 
 ### 3-Year Strategic Forecast Summary Matrix
 
-| Financial Metric (INR Cr) | FY 2027 Forecast | FY 2028 Forecast | FY 2029 Forecast | Strategic Operational Guidance |
+| Financial Metric | FY 2027 Forecast | FY 2028 Forecast | FY 2029 Forecast | Strategic Operational Guidance |
 | :--- | :--- | :--- | :--- | :--- |
-| **Gross Revenue** | *[Insert Value]* | *[Insert Value]* | *[Insert Value]* | Tracks top-line consumer demand and price volume velocity. |
-| **Operating Expenses** | *[Insert Value]* | *[Insert Value]* | *[Insert Value]* | Highlights critical inflation boundaries and procurement thresholds. |
-| **Profit Before Tax (PBT)** | *[Insert Value]* | *[Insert Value]* | *[Insert Value]* | Measures raw operational efficiency before tax regulations. |
-| **Profit After Tax (PAT)** | *[Insert Value]* | *[Insert Value]* | *[Insert Value]* | Represents net corporate earnings available for reinvestment/dividends. |
+| **Predicted Total Income** | 2,56,728.92 | 2,73,694.24 | 2,90,659.56 | Tracks top-line consumer demand and price volume velocity. |
+| **Predicted Total Expenses**| 2,05,154.98 | 2,18,859.76 | 2,32,564.53 | Highlights critical inflation boundaries and procurement thresholds. |
+| **Predicted Profit Before Tax (PBT)** | 53,903.55 | 57,671.72 | 61,439.90 | Measures raw operational efficiency before tax regulations. |
+| **Predicted Profit After Tax (PAT)** | 40,827.84 | 43,780.73 | 46,733.63 | Represents net corporate earnings available for reinvestment/dividends. |
 
 ***Strategic Business Insight Derived:*** The predictive model isolates high-growth quarters where Nestlé India can aggressively scale supply chain inventory. It also identifies accelerating expense thresholds, signaling precisely when management should deploy cost-containment measures to safeguard net margins.
