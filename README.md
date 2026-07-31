@@ -33,3 +33,14 @@
 | **Predicted Profit After Tax (PAT)** | 40,827.84 | 43,780.73 | 46,733.63 | Represents net corporate earnings available for reinvestment/dividends. |
 
 ***Strategic Business Insight Derived:*** The predictive model isolates high-growth quarters where Nestlé India can aggressively scale supply chain inventory. It also identifies accelerating expense thresholds, signaling precisely when management should deploy cost-containment measures to safeguard net margins.
+## 📈 Business Impact
+
+This project demonstrates how historical financial data can support strategic business planning and decision-making.
+
+### Key Business Benefits
+
+- Forecasts future revenue, expenses, and profitability.
+- Supports budgeting and financial planning.
+- Helps identify future financial trends.
+- Assists management in making data-driven decisions.
+- Demonstrates the practical use of time-series forecasting in business analytics.
