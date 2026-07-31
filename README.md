@@ -33,10 +33,3 @@
 | **Predicted Profit After Tax (PAT)** | 40,827.84 | 43,780.73 | 46,733.63 | Represents net corporate earnings available for reinvestment/dividends. |
 
 ***Strategic Business Insight Derived:*** The predictive model isolates high-growth quarters where Nestlé India can aggressively scale supply chain inventory. It also identifies accelerating expense thresholds, signaling precisely when management should deploy cost-containment measures to safeguard net margins.
-## Dashboard
-
-![Dashboard](images/dashboard.png)
-
-## Revenue Trend
-
-![Revenue](images/Income_vs_Expenses.png)
