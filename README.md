@@ -1,6 +1,6 @@
 ## Project 1: Nestlé India Financial Forecasting – Forecast Analysis (2027–2029)
 
-* **Objective:** Analyze Nestlé India's historical financial statements to project future corporate revenue velocities, track operational expense thresholds, and assess long-term profitability metrics.
+* **Objective:** Forecasted Nestlé India's revenue, expenses, and profits for the next three years using historical financial data and time series analysis.
 * **Tools Used:** Python (Jupyter Notebook via Anaconda Navigator), Microsoft Excel, Power BI Desktop.
 * **Methodology:** Executed rigorous historical data cleaning, trend identification, stationarity validation (ADF testing), and seasonality analysis on past income statement line items.
 * **Key Outcome:** Developed an end-to-end predictive Time Series framework that generates a comprehensive 3-year financial outlook forecasting **Revenue, Expenses, Profit Before Tax (PBT), and Profit After Tax (PAT)** for the fiscal years **2027, 2028, and 2029**.
@@ -33,3 +33,10 @@
 | **Predicted Profit After Tax (PAT)** | 40,827.84 | 43,780.73 | 46,733.63 | Represents net corporate earnings available for reinvestment/dividends. |
 
 ***Strategic Business Insight Derived:*** The predictive model isolates high-growth quarters where Nestlé India can aggressively scale supply chain inventory. It also identifies accelerating expense thresholds, signaling precisely when management should deploy cost-containment measures to safeguard net margins.
+## Dashboard
+
+![Dashboard](images/dashboard.png)
+
+## Revenue Trend
+
+![Revenue](images/Income_vs_Expenses.png)
